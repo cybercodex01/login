@@ -1,0 +1,8 @@
+python-dotenv
+requests
+python-telegram-bot
+asyncio
+aiohttp
+json_minify
+websocket-client
+colorama
